@@ -31,3 +31,5 @@
 /dist/
 *stackdump*
 output*.txt
+*.csv
+
